@@ -1,0 +1,42 @@
+.col-md-12 {
+    border-style: solid;
+    background-color: #969090;
+    height: 10rem;
+}
+
+.col-md-3 {
+    border-style: solid;
+    background-color: #F2EAEA;
+    height: 10rem;
+}
+
+.col-md-6 {
+    border-style: solid;
+    height: 10rem;
+    background-color: #F2EAEA;
+}
+
+p {
+    text-align: center;
+    font-size: 5rem;
+}
+
+.divide {
+    background-color:tomato;
+}
+
+.multiply {
+    background-color: tomato;
+}
+
+.minus {
+    background-color: tomato;
+}
+
+.plus {
+    background-color: tomato;
+}
+
+.equal {
+    background-color: tomato;
+}

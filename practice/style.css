@@ -1,0 +1,100 @@
+.website {
+	background-color: teal;
+	height: 200px;
+}
+
+.links {
+	display: flex;
+}
+
+.link1 {
+	background-color: grey;
+	color: white;
+	width: 100px;
+	height: 50px;	
+}
+
+.link2 {
+	background-color: grey;
+	color: white;
+	width: 100px;
+	height: 50px;
+}
+
+.link3 {
+	background-color: grey;
+	color: white;
+	width: 100px;
+	height: 50px;
+}
+
+.link4 {
+	background-color: grey;
+	color: white;
+	width: 100px;
+	height: 50px;
+	flex-grow: 1;
+}
+
+.imagess {
+	display: flex;	
+}
+
+.image1 {
+	background-color: grey;
+	height: 200px;
+	width: 300px;
+	margin-right: 50px;
+
+}
+
+.image2 {
+	background-color: grey;
+	height: 200px;
+	width: 300px;
+	flex-grow: 1;
+}
+
+.pics {
+	display: flex;
+	flex-direction: column;
+}
+
+.pict1 {
+	background-color: grey;
+	height: 50px;
+	width: 300px;
+	margin-bottom: 10px;
+}
+
+.pict2 {
+	background-color: grey;
+	height: 50px;
+	width: 300px;
+	margin-bottom: 10px;
+}
+
+.pict3 {
+	background-color: grey;
+	height: 50px;
+	width: 300px;
+	margin-bottom: 40px;
+}
+
+.side {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	padding: 20px;
+	align-items: baseline;
+}
+
+.phot1 {
+	height: 100px;
+}
+
+.phot {
+	background-color: grey;
+	width: 300px;
+	padding: 20px;
+}
